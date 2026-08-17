@@ -1,0 +1,6 @@
+# CyberGuard runtime dependencies
+# Core functionality uses only the Python standard library (hashlib, urllib,
+# argparse, getpass, re, math) — no external packages required to run.
+
+# Optional: for running the test suite
+pytest>=7.4.0
