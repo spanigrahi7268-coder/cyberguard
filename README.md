@@ -73,8 +73,6 @@ cyberguard/
 git clone https://github.com/spanigrahi7268-coder/cyberguard.git
 
 ```
-cd cyberguard
-```
 
 No external packages are required to run the core tool — it only uses the Python standard library.
 
