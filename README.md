@@ -70,7 +70,7 @@ cyberguard/
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/<your-username>/cyberguard.git
+git clone https://github.com/spanigrahi7268-coder/cyberguard.git
 cd cyberguard
 pip install -r requirements.txt   # optional — only needed to run tests
 ```
